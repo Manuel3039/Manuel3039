@@ -1,7 +1,7 @@
 # Hi there, I'm Emmanuel 👋
 
 ## 🚀 About Me
-I'm a passionate developer interested in AI, ML, and web development.
+I'm a  developer with expertise in AI, ML, and web development.
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
