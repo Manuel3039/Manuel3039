@@ -1,4 +1,4 @@
-# Hi there, I'm Manuel 👋
+# Hi there, I'm Emmanuel 👋
 
 ## 🚀 About Me
 I'm a passionate developer interested in AI, ML, and web development.
